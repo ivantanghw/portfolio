@@ -9,7 +9,7 @@
  2.2. (in other new computer) <br>
        <code> pip install -r requirements.txt </code> <br>
  3. enter directory of master <br>
- 4. <code>git add . </code>('.' means all file in the master directory <br>
+ 4. <code>git add . </code> ('.' means all file in the master directory) <br>
  5. <code>git commit -m'description' </code> <br>
  6. <code>git push origin master </code> <br>
 </p>
